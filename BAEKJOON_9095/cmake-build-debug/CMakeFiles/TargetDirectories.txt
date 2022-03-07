@@ -1,3 +1,0 @@
-/Users/apple/Algorithm/BAEKJOON_9095/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/apple/Algorithm/BAEKJOON_9095/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/apple/Algorithm/BAEKJOON_9095/cmake-build-debug/CMakeFiles/BAEKJOON_9095.dir
