@@ -1,3 +1,0 @@
-/Users/apple/Algorithm/Programmers_타켓넘버/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/apple/Algorithm/Programmers_타켓넘버/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/apple/Algorithm/Programmers_타켓넘버/cmake-build-debug/CMakeFiles/Programmers_.dir
