@@ -1,0 +1,7 @@
+def solution(n):
+    answer = []
+    arr = list(str(n))
+    arr.reverse()
+    for a in arr :
+        answer.append(int(a))
+    return answer
